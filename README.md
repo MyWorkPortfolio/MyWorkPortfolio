@@ -2,7 +2,7 @@
 #### Solutions/Cloud engineering
 ![Solutions/Cloud engineering](https://media.licdn.com/dms/image/v2/D4D16AQE9DjCqklIr4g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1697883964585?e=1767225600&v=beta&t=TILjR5ZwZ-s_iHQMf_6HVjy0sgAtJwB8JJJH5CT96VM)
 
-I'm Olajide from Nigeria, and I work as a Solution/Cloud engineer. I really enjoy learning languages and frameworks like Django, Flask, and FastAPI. I also enjoy tech article writing. You can check out my X at https://x.com/home
+I'm Olajide from Nigeria, and I work as a Solution/Cloud engineer. I really enjoy learning languages and frameworks like Python, JavaScript, Django, Flask, and FastAPI. I also enjoy tech article writing. You can check out my X at https://x.com/home
 
 Skills: C/ C++/ PYTHON/ TERRAFORM/ DOCKER/ KUBERNETES/ DevOps
 
