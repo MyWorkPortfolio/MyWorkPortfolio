@@ -7,6 +7,8 @@ I'm Olajide from Nigeria, and I work as a Solution/Cloud engineer. I really enjo
 * ⚕️ Python
 *  💻 Kubernetes/Docker/AWS
 
+## Examples of work
+
 Skills: C/ C++/ PYTHON/ TERRAFORM/ DOCKER/ KUBERNETES/ DevOps
 
 
